@@ -2,7 +2,8 @@ h1 {
     text-align: center;
     font-family: "Times New Roman", 'Times New Roman', Times, serif;
     color: black;
-    margin-bottom:200px;
+    margin-top: 80px;
+    font-size: 50px;
 }
 
 h2 {
@@ -11,6 +12,8 @@ h2 {
 
 p {
     font-family: "Source Arial", sans-serif;
+    text-align: center;
+    font-size: 18px;
 }
 
 ul {
@@ -31,3 +34,15 @@ body {
     background-color: lightgrey;
     border: 5px solid black;
 }
+
+article {
+    margin-top: 80px;
+    font-family: "Source Arial", sans-serif;
+    padding-bottom: 100px;
+}
+
+img {
+    margin-left: 400px;
+    margin-bottom: 80px;
+}
+    
