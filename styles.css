@@ -37,6 +37,7 @@ li {
 body { 
     background-color: black;
     border: 5px solid black;
+    border-top-style: dashed;
 }
 
 
