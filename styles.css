@@ -25,6 +25,7 @@ button {
     margin-right: 100px;
     font-size: 40px;
     background-color: none;
+    font-family: Copperplate, Papyrus, fantasy;
 }
 
 a:visited {
