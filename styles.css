@@ -3,8 +3,8 @@ ul {
     margin-top: 25px;
     list-style-type: none;
     text-align: center;
-    border-bottom: 5px;
-    border-radius:15px;
+    border-bottom: 30px;
+    border-radius:45px;
     background-color: lavender;
     font-size: 40px;
 }
